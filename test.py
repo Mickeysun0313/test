@@ -5,3 +5,5 @@ if a>1:
 else:
     print("else")
     print("Hi")
+print("OK")
+print("123")
